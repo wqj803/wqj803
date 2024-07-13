@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @wqj803
+- 👀 I’m interested in how to initialize integration of Visual Studio Code with Git, Github, and Docker.
+- 🌱 I’m currently looking for a good tutorial that provides a big picture and then walks through setup.
+- 💞️ I’m surprised there isn't a wizard in Visual Studio Code to initialize a complete programming environment.
+- 📫 How to reach me: wqj803@techie.com
+- 😄 Pronouns: it
